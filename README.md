@@ -164,7 +164,6 @@ The calculator handles various edge cases:
 ## 👨‍💻 Author
 
 **Frenkli Zeqollari**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 - Email: frenklif50@gmail.com
 
 ## 📄 License
